@@ -7,7 +7,7 @@ The OWL API is a Java API for creating, manipulating and serialising OWL Ontolog
 
 * The latest version of the API supports OWL 2.
 
-* It is available under Open Source licenses (LGPL and Apache).
+* It is available under Open Source licenses (LGPL and Apache).n
 
 The following components are included:
 
